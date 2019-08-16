@@ -1,0 +1,16 @@
+{
+    "name": "biobii/php-design-pattern",
+    "description": "PHP Design Pattern",
+    "authors": [
+        {
+            "name": "Mohammad Robih T. Z",
+            "email": "biobii.game@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
